@@ -3,5 +3,8 @@ faiss-cpu
 numpy
 sentence-transformers
 google-generativeai
+google-genai
 rank-bm25
 pymupdf
+ddgs
+beautifulsoup4
